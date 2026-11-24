@@ -27,3 +27,4 @@ SasetEM busca versiones nuevas al abrirse y ofrece **Actualizar ahora**. Solo de
 ---
 
 Este repositorio contiene solo los instaladores. No incluye claves ni licencias.
+COPYRIGHT Jefferson Ribadeneira Ramírez
